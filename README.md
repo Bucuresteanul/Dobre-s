@@ -1,26 +1,26 @@
 # Dobre-s
 
-**Historical repository**
+**Historical Remix / Netlify experiment**
 
 **Status:** Historical  
 **Maintenance:** None planned  
-**Current role:** Preserved record of an earlier web-development experiment
+**Repository role:** Preserved technical record
 
-This repository preserves an early 2023 Remix / Netlify experiment based on the **Remix K-pop Stack**.
+This repository preserves an early 2023 experiment based on the [Remix K-pop Stack](https://github.com/netlify-templates/kpop-stack).
 
-It is not presented as a current BanIKa product, an active venture or a production system.
+It is not presented as a current BanIKa product, active venture or production system.
 
-The original README is preserved unchanged in [LEGACY-README.md](./LEGACY-README.md).
+## Provenance
 
-## Why it remains public
+- Upstream starter: Remix K-pop Stack
+- Original technical README: [LEGACY-README.md](./LEGACY-README.md)
+- Current BanIKa profile: https://github.com/Bucuresteanul
 
-The repository is part of the account's development history. Its value today is historical context rather than current product relevance.
+## Evolution
 
-No attempt is made to relabel the underlying starter code as something it was not.
-
-## Current interpretation
-
-**THEN:** experimentation with a full-stack Remix / Netlify starter.  
+**THEN — 2023:** experimentation with a full-stack Remix / Netlify starter.  
 **NOW:** historical evidence of an earlier technical exploration.
+
+The underlying starter code is intentionally preserved and is not relabeled as original BanIKa production code.
 
 **Preserve history. Show evolution.**
